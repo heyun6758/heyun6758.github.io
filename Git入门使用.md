@@ -11,7 +11,8 @@ git status
 
 git add <file>
 
-git commit
+git commit -m <msg> 
+git commit --allow-empty-message
 
 git pull
 
